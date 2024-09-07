@@ -1,4 +1,6 @@
-# tatsoku
+# tat<sub>su</sub>soku!
+
+or ryusoku!
 
 <sub>竜速: Dragon Speed</sub>
 
