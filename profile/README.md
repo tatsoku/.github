@@ -1,6 +1,4 @@
-# tat<sub>su</sub>soku!
-
-or ryusoku!
+<img align="center" src="../.resources/tatsoku icon long.png" /> 
 
 <sub>竜速: Dragon Speed</sub>
 
