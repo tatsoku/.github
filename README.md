@@ -1,7 +1,7 @@
-# tat<sub>su</sub>soku!
-
-or ryusoku!
+# tat<sub>su</sub>soku! .github
 
 <sub>竜速: Dragon Speed</sub>
 
-Welcome to tat<sub>su</sub>soku (竜速), a tiny organization, focusing on implementing a shell and terminal that makes sense for both __Windows__ and __*nix__ needs.
+Welcome to the tat<sub>su</sub>soku (竜速) `.github` repo!
+
+Here you will find metadata and documents, such as our [Code of Conduct](CODE_OF_CONDUCT.md), our [Contribution guide](CONTRIBUTING.md), and our icons.
